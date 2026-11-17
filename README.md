@@ -1,6 +1,6 @@
 # Signal Explorer Suite
 
-**A high-performance, cross-platform scientific instrumentation suite built with C# .NET 10, Avalonia UI 12, and SkiaSharp.**
+**A high-performance, cross-platform scientific instrumentation desktop suite built with C# .NET 10/11, Avalonia UI 12, and SkiaSharp.**
 
 ![Signal Explorer Suite](assets/hero-showcase.png)
 
