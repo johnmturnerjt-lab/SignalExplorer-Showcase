@@ -1,8 +1,8 @@
 # Signal Explorer Suite
 
-**A high-performance, cross-platform scientific instrumentation desktop suite built with C# .NET 10/11, Avalonia UI 12, and SkiaSharp.**
+**A high-performance, cross-platform scientific instrumentation desktop suite built with C# .NET 10/11, Avalonia UI 12, and SkiaSharp. Targeting Windows, Linux and macOS**
 
-![Signal Explorer Suite](assets/hero-showcase.png)
+![Signal Explorer Suite](assets/showcase-suite.gif)
 
 ---
 
@@ -75,6 +75,11 @@ This suite was architected with a strict focus on **mechanical sympathy** and **
 
 ### Signal Generator GUI & Custom Controls
 ![Signal Generator View](assets/generator-detail.png)
+
+### Signal Generator on Linux
+![Linux Light Theme](assets/linux-light.png)
+
+![Linux Dark Theme](assets/linux-dark.png)
 
 ---
 
