@@ -2,8 +2,7 @@
 
 **A high-performance, cross-platform scientific instrumentation suite built with C# .NET 10, Avalonia UI 12, and SkiaSharp.**
 
-![Signal Explorer Suite Hero Screenshot](assets/hero-showcase.png)
-*(Replace with your 16:9 high-resolution showcase capture)*
+![Signal Explorer Suite](assets/hero-showcase.png)
 
 ---
 
