@@ -97,7 +97,7 @@ If you are an engineering lead, technical recruiter, or prospective client inter
 
 ---
 
-### 7-day Limited Trial Versions
+## 7-day Limited Trial Versions
 
 * [Windows x64 (.zip)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/v1.0.0/avalonia-windows-x64.zip)
 * [Linux x64 (.tar.gz)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/v1.0.0/avalonia-linux-x64.tar.gz)
@@ -107,7 +107,7 @@ If you are an engineering lead, technical recruiter, or prospective client inter
 
 ---
 
-### 🖥️ Supported Platforms & Testing Matrix
+## 🖥️ Supported Platforms & Testing Matrix
 
 * Windows (win-x64): Built and tested natively on Windows 11.
 * Linux (linux-x64): Built and tested on Ubuntu 24.04 under WSL2 (WSLg); targeting standard X11/Wayland desktop environments.
