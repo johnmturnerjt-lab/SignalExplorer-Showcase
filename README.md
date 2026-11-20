@@ -104,3 +104,11 @@ If you are an engineering lead, technical recruiter, or prospective client inter
 * [Linux ARM64 (.tar.gz)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/v1.0.0/avalonia-linux-arm64.tar.gz)
 * [macOS Intel x64 (.tar.gz)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/v1.0.0/avalonia-macos-x64.tar.gz)
 * [macOS Apple Silicon ARM64 (.tar.gz)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/v1.0.0/avalonia-macos-arm64.tar.gz)
+
+---
+
+### 🖥️ Supported Platforms & Testing Matrix
+
+* Windows (win-x64): Built and tested natively on Windows 11.
+* Linux (linux-x64): Built and tested on Ubuntu 24.04 under WSL2 (WSLg); targeting standard X11/Wayland desktop environments.
+* macOS (osx-arm64 / osx-x64): Cross-compiled via CI/CD using standard Avalonia/SkiaSharp targets; provided as unsigned binaries and currently untested on physical Apple hardware (Gatekeeper approval may be required on first launch).
