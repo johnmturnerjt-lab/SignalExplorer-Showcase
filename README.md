@@ -99,11 +99,11 @@ If you are an engineering lead, technical recruiter, or prospective client inter
 
 ## 7-day Limited Trial Versions
 
-* [Windows x64 (.zip)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/v1.0.0/avalonia-windows-x64.zip)
-* [Linux x64 (.tar.gz)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/v1.0.0/avalonia-linux-x64.tar.gz)
-* [Linux ARM64 (.tar.gz)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/v1.0.0/avalonia-linux-arm64.tar.gz)
-* [macOS Intel x64 (.tar.gz)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/v1.0.0/avalonia-macos-x64.tar.gz)
-* [macOS Apple Silicon ARM64 (.tar.gz)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/v1.0.0/avalonia-macos-arm64.tar.gz)
+* [Windows x64 (.zip)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/latest/avalonia-windows-x64.zip)
+* [Linux x64 (.tar.gz)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/latest/avalonia-linux-x64.tar.gz)
+* [Linux ARM64 (.tar.gz)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/latest/avalonia-linux-arm64.tar.gz)
+* [macOS Intel x64 (.tar.gz)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/latest/avalonia-macos-x64.tar.gz)
+* [macOS Apple Silicon ARM64 (.tar.gz)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/latest/avalonia-macos-arm64.tar.gz)
 
 ---
 
