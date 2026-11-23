@@ -93,7 +93,7 @@ Signal Explorer Suite was architected and built using an **AI-First collaborativ
 
 ## Architecture & Source Inquiries
 
-*Note: This repository serves as the public showcase, architectural overview, and release hub for the Signal Explorer Suite. Core source code is maintained in a private repository.*
+*Note: This repository serves as the public showcase, architectural overview, and experimental release hub for the Signal Explorer Suite. Core source code is maintained in a private repository.*
 
 If you are an engineering lead, technical recruiter, or prospective client interested in discussing the architecture, custom Avalonia UI development, or reviewing specific code samples, please feel free to reach out directly via LinkedIn or email.
 
@@ -107,12 +107,12 @@ If you are an engineering lead, technical recruiter, or prospective client inter
 * [macOS Intel x64 (.tar.gz)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/latest/avalonia-macos-x64.tar.gz)
 * [macOS Apple Silicon ARM64 (.tar.gz)](https://raw.githubusercontent.com/johnmturnerjt-lab/SignalExplorer-Showcase/binaries/latest/avalonia-macos-arm64.tar.gz)
 
-*Note: These are compressed native binaries that have not been code signed which may mean your OS will need approval to launch.*
+*Note: These are compressed native binaries that have not been code signed which may mean your OS prompting for approval to launch.*
 
 ---
 
 ## 🖥️ Supported Platforms & Testing Matrix
 
-* Windows (win-x64): Built and tested natively on Windows 11.
+* Windows (win-x64): Built and tested natively on Windows 11 (26H2).
 * Linux (linux-x64): Built and tested on Ubuntu 24.04 under WSL2 (WSLg); targeting standard X11/Wayland desktop environments.
 * macOS (osx-arm64 / osx-x64): Cross-compiled via CI/CD using standard Avalonia/SkiaSharp targets; provided as unsigned binaries and currently untested on physical Apple hardware (Gatekeeper approval may be required on first launch).
