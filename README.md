@@ -10,7 +10,7 @@
 
 **Signal Explorer Suite** is a real-time, multi-application desktop instrumentation platform comprising a **Headless Signal Generator Console Engine** and a full **4-Channel GUI Suite (Signal Generator & Digital Oscilloscope)**. Designed from first principles for deterministic performance and responsive cross-platform UI, the suite streams high-frequency waveform telemetry over UDP with sub-millisecond rendering latency.
 
-Built through an **AI-First engineering workflow** in collaboration with Gemini, this project demonstrates how modern systems architecture, zero-allocation memory pipelines, and GPU-accelerated vector graphics come together in modern .NET desktop development.
+Built through an **AI-First engineering workflow** in collaboration with Gemini, this project demonstrates how modern systems architecture, zero-allocation memory pipelines and GPU-accelerated vector graphics come together in modern .NET desktop development.
 
 ---
 
