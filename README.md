@@ -51,7 +51,7 @@ This suite was architected with a strict focus on **mechanical sympathy** and **
 * **Zero-Allocation Data Pipeline:** Extensive use of `Span<T>`, `ReadOnlySpan<T>`, `MemoryMarshal`, and `ArrayPool<T>` eliminates garbage collection (GC) pauses during continuous high-rate telemetry streaming.
 * **Lock-Free Concurrency:** Bounded `System.Threading.Channels` decouple the UDP socket listener, DSP/trigger processing stage, and the Avalonia UI rendering loop.
 * **Custom Avalonia UI 12 Controls:** Engineered custom templated and direct-rendered controls from scratch—avoiding heavy third-party UI bloat while maintaining native theming, DPI awareness, and cross-platform consistency.
-* **Modern .NET 10 Toolchain:** Structured with Central Package Management (`Directory.Packages.props`), `.slnx` solution architecture, and Native AOT readiness.
+* **Modern .NET 10 Toolchain:** Structured with Central Package Management (`Directory.Packages.props`), `.slnx` solution architecture and Native AOT.
 
 ---
 
@@ -64,7 +64,7 @@ This suite was architected with a strict focus on **mechanical sympathy** and **
 | **UI Framework** | Avalonia UI 12 (Cross-Platform Desktop) |
 | **2D Graphics Engine** | SkiaSharp (GPU-Accelerated Custom Drawing) |
 | **Transport & Concurrency** | System.Net.Sockets (UDP), `System.Threading.Channels` |
-| **Memory & Performance** | `Span<T>`, `MemoryMarshal`, `ArrayPool<T>` |
+| **Memory & Performance** | `Span<T>`, `MemoryMarshal`, `ArrayPool<T>`, `SIMD` |
 
 ---
 
